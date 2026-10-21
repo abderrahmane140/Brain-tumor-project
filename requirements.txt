@@ -1,0 +1,28 @@
+# Data & visualization
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+opencv-python
+scikit-learn
+pyyaml
+tqdm
+
+# Deep learning
+tensorflow
+ultralytics
+
+# Experiment tracking
+mlflow
+
+# API & UI
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+requests
+
+# Notebook
+jupyter
+ipykernel
