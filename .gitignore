@@ -7,3 +7,5 @@ __pycache__/
 *.pt
 *.keras
 .venv312
+*.xml
+*.iml
