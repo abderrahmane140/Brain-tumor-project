@@ -1,0 +1,10 @@
+path: /content/dataset
+train: images/train
+val: images/valid
+test: images/test
+nc: 4
+names:
+- glioma
+- meningioma
+- notumor
+- pituitary
