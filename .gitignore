@@ -9,3 +9,7 @@ __pycache__/
 .venv312
 *.xml
 *.iml
+
+det_data.zip
+split_data.zip
+data.rar
