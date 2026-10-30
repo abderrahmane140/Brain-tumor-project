@@ -17,3 +17,8 @@ data.rar
 .env
 
 *.log
+
+# MLflow
+mlflow.db
+mlruns/
+mlflow/
