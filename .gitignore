@@ -13,3 +13,7 @@ __pycache__/
 det_data.zip
 split_data.zip
 data.rar
+
+.env
+
+*.log
